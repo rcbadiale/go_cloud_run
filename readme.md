@@ -2,6 +2,8 @@
 
 You can use the live demo on: https://go-cloud-run-23aifcgpxq-uc.a.run.app/
 
+Endpoints are described in [APIs](#apis).
+
 ## Run locally
 
 Setup your your [Weather API](https://www.weatherapi.com/) key on `docker-compose.yml`.
